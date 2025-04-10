@@ -1,0 +1,10 @@
+gradio
+ipykernel
+kagglehub
+mlxtend
+nbformat
+nbimporter
+opencv-python
+pip
+SimpleITK
+tensorflow
